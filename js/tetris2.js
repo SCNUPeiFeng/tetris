@@ -1,5 +1,5 @@
-/**
- * Created by zqc on 2015/2/10.
+﻿/**
+ * Created by zqc on 2015/2/10.vhvdkjvhj
  */
 
 function dlImg(img) { // 返回一个img对象
